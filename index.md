@@ -3,3 +3,4 @@
 ## MORE HEADERS
 ### EVEN MORE
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
